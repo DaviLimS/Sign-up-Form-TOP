@@ -4,13 +4,20 @@
 }
 
 main {
+    display: flex;
+    justify-content: end;
     width: 100vw;
     height: 100vh;
     background-image: url(img/forest-image.jpg);
 }
 
+.logo-container {
+    width: 35%;
+    height: 100%;
+}
+
 .container {
     height: 100%;
     width: 65%;
-    background-color: black;
+    background-color: white;
 }

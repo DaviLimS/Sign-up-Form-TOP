@@ -76,3 +76,15 @@ main {
 .b {
     color: red;
 }
+
+.form-container {
+    height: 37%;
+    width: 100%;
+    background-color: white;
+    box-shadow: 1px 5px 5px rgb(184, 184, 184);
+}
+
+.submit-container {
+    height: 10%;
+    width: 100%;
+}

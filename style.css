@@ -36,7 +36,6 @@ main {
 }
 .logo-container-1 img {
     height: 120px;
-    margin-right: 20px;
 }
 
 .logo-container-2 {
@@ -48,7 +47,7 @@ main {
     display: flex;
     align-items: center;
     height: 100%;
-    font-size: 5em;
+    font-size: 4em;
     color: rgb(219, 219, 219);
     margin-right: 200px;
 }

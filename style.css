@@ -29,25 +29,28 @@ main {
 
 .logo-container-1 {
     display: flex;
-    justify-content: center;
+    justify-content: end;
+    align-items: center;
     width: 45%;
     height: 100%;
 }
 .logo-container-1 img {
     height: 120px;
+    margin-right: 20px;
 }
 
 .logo-container-2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 45%;
     height: 100%;
 }
 .logo-container-2 p {
+    justify-content: start;
+    display: flex;
+    align-items: center;
     height: 100%;
     font-size: 5em;
-    color: rgb(196, 196, 196);
+    color: rgb(219, 219, 219);
+    margin-right: 200px;
 }
 
 .container {

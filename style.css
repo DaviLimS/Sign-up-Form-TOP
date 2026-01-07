@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
     font-family: "Roboto", sans-serif;
+        color: rgb(41, 41, 41);
+
 }
 
 main {
@@ -71,7 +73,6 @@ main {
     font-size: large;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
-    color: rgb(41, 41, 41);
 }
 
 .b {

@@ -130,6 +130,15 @@ input {
     height: 1.2rem;
 }
 
+input:focus {
+    border: 0.5px solid rgb(45, 45, 252);
+    box-shadow: 1px 1px 1px black;
+}
+
+#password:invalid, #confirm-password:invalid {
+    border: 0.5px solid red;
+}
+
 #btn {
     background-color: rgba(10, 122, 31, 0.918);
     color: white;

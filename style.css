@@ -130,8 +130,9 @@ input {
     height: 1.2rem;
 }
 
-input:focus {
+input[type="text"]:focus {
     border: 0.5px solid rgb(45, 45, 252);
+    outline: none;
     box-shadow: 1px 1px 1px black;
 }
 
